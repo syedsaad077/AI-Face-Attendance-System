@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+faceenv/
+
+# Dataset images
+dataset/
+
+# Attendance file
+attendance.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
