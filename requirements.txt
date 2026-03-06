@@ -3,6 +3,4 @@ opencv-python-headless
 numpy
 pandas
 Pillow
-face-recognition
-cmake
-dlib
+
